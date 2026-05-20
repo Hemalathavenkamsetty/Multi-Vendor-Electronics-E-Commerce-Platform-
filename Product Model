@@ -1,0 +1,11 @@
+{
+  title,
+  description,
+  category,
+  price,
+  stock,
+  images,
+  vendor,
+  ratings,
+  reviews
+}
