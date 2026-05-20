@@ -1,0 +1,8 @@
+{
+  user,
+  items,
+  totalAmount,
+  paymentStatus,
+  orderStatus,
+  shippingAddress
+}
