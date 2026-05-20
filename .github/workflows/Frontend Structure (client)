@@ -1,0 +1,43 @@
+client/src
+│
+├── api/
+│   └── axios.js
+│
+├── app/
+│   └── store.js
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── ProductCard.jsx
+│   ├── Loader.jsx
+│   ├── Sidebar.jsx
+│   └── ProtectedRoute.jsx
+│
+├── features/
+│   ├── auth/
+│   ├── products/
+│   ├── cart/
+│   ├── wishlist/
+│   ├── orders/
+│   └── reviews/
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   ├── Register.jsx
+│   ├── ProductDetails.jsx
+│   ├── Cart.jsx
+│   ├── Wishlist.jsx
+│   ├── Checkout.jsx
+│   ├── Orders.jsx
+│   ├── VendorDashboard.jsx
+│   └── AdminDashboard.jsx
+│
+├── routes/
+│   └── AppRoutes.jsx
+│
+├── utils/
+│   └── helpers.js
+│
+├── App.jsx
+└── main.jsx
