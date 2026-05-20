@@ -1,0 +1,39 @@
+server/
+│
+├── config/
+│   └── db.js
+│
+├── controllers/
+│   ├── authController.js
+│   ├── productController.js
+│   ├── cartController.js
+│   ├── orderController.js
+│   └── reviewController.js
+│
+├── middleware/
+│   ├── authMiddleware.js
+│   ├── roleMiddleware.js
+│   └── errorMiddleware.js
+│
+├── models/
+│   ├── User.js
+│   ├── Product.js
+│   ├── Order.js
+│   ├── Review.js
+│   └── Cart.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── productRoutes.js
+│   ├── cartRoutes.js
+│   ├── orderRoutes.js
+│   └── reviewRoutes.js
+│
+├── utils/
+│   └── generateToken.js
+│
+├── uploads/
+│
+├── .env
+├── server.js
+└── package.json
